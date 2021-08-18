@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Girlwithdragontattoo
-- 👀 I’m interested in Ansys Fluent and Classical Molecular Dynamics
+- 👀 I’m interested in Ansys Fluent and NAMD
 - 🌱 I’m currently learning how to create udf files
 - 💞️ I’m looking to collaborate on microbial fuel cell udf users
 - 📫 How to reach me bhanuelectricgreen10@gmail.com
